@@ -8,4 +8,8 @@ version="0.0.1"
 dependencies=[
     "django==5.2.14",
     "django-polymorphic==4.11.3",
+    "pylint==4.0.5",
 ]
+
+[tool.setuptools]
+packages = []
